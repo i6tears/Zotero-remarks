@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "文献列表备注",
+  "description": "在 Zotero 的标题列显示自定义文献备注。",
+  "version": "1.0.0",
+  "applications": {
+    "zotero": {
+      "id": "list-remarks@littleinventor.local",
+      "strict_min_version": "10.0",
+      "strict_max_version": "10.0.*",
+      "update_url": "https://example.invalid/zotero-list-remarks/updates.json"
+    }
+  }
+}
